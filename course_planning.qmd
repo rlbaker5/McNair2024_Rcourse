@@ -1,0 +1,80 @@
+---
+title: "Course Planning"
+format: html
+editor: visual
+---
+
+# Planning Notes for R course
+
+Ideally, these will be re-worked in a much more systematic fashion to generate a syllabus-like document
+
+## Course Overview:
+
+Six two-hour sessions on Tuesday afternoons staring on June 11th with now class on the week of the 4th of July (last day is July 23). All classes are in person (not hybrid). Office hours can be hybrid, in person, or on an as-needed basis. There is no expectation for out of class work or preparation.
+
+The goals of the course are to give students an overview of the programming for repeatable, transparent, and robust analyses. The course will focus on R to teach best practices in managing data, data import and export, data cleaning, summary statistics and exploratory data analysis as well as basic how to run and interpret simple statistical analyses and generate figures for reports or publications.
+
+Each session will have three basic components: some instructional time dedicated to lecture/discussion, some instructional time dedicated to canned coding examples/demos where students follow along and some time dedicated to "challenge" questions where students work on their own (or in groups) to apply the lessons learned to new situations/data.
+
+(obviously not all of this is planned out quite yet, especially the examples)
+
+All of the course materials will be available via GitHub at [github.com/rlbaker5/McNair2024_Rcourse](www.github.com/rlbaker5/McNair2024_Rcourse).
+
+## Lecture 1: June 11th
+
+(Rob takes lead on Prep as Clay has interview prep to do) 10 min: Intro to Rob and Clay (10 minutes max) 15 min: Intro to the seminar (purpose, where to find course materials, office hours for extra help, etc) 20 min: What is CS? What is a programming language? Why use it? \* reproducibility, transparency, sharing/collaborating, publishing 10-15 min: Examples: ideas in hmanities context?
+
+BREAK (10 min?)
+
+Quick project: -DEMO: 5 minutes: intro: follow-along, an example what what you should be able to to at the end of the course, etc 5 minutes cover ideas of correlation vs. causation 10 minutes: -follow-along code example (ice creams and shark attacks) 10 minutes: plot the results
+
+```         
+Challenge work:
+Additional example: (chocolate and nobel prizes?)
+Given them data and let them try to generate the correlation analysis and plot on their own
+```
+
+## Lecutre 2: June 18th
+
+```         
+(Rob at Botany; Clay will lead)
+10 minutes: Why do we use langauges? What is the right tool? When are computers helpful (when are they not)?
+10 minutes: Why R (FREE! packages, functions, community of developers and helpers)
+25-30 minutes: R mechanics
+  * data import (xlsx vs csv): differnces, data loss, analyzable vs. unanalyzable data in xlsx (color yuck!)
+  * save data, export plots
+  * dpi, file sizes, etc
+  * how to install & load packages
+  * how to find and access documention
+  * assigning variables & using functions
+  
+25-30 min Hands on examples: data visualization for challener o-ring failure
+
+BREAK
+
+???
+```
+
+## Lecture 3: June 25
+
+Data handling/best practices What to do and how to treat raw data files Hit data import again Exploring/munging data: comment & document code anatomy of a dataframe: head/tail nrow/ncol how to find a specific location in a dataframe subsetting data joining data with rbind/cbind simple operations within a data frame (col1 \* col2 = col3) factors how to save a file
+
+## July 02 - NO CLASS
+
+## Lecture 4: July 09
+
+Text manipulation (stingr, grep, etc) control structures: for, if (ifelse? while?)
+
+## Lecture 5: July 16
+
+```         
+Statistics in brief:
+Normal distributions; p-values, 95% probability, etc
+(cover at a very high level - not too many details)
+distribution shapes and simple transformations
+(histograms? QQplots?)
+```
+
+## Lecture 6: July 23
+
+Project: 1 is demo-like and 1 is on-your-own
