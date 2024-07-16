@@ -22,11 +22,23 @@ All of the course materials will be available via GitHub at [github.com/rlbaker5
 
 ## Lecture 1: June 11th
 
-(Rob takes lead on Prep as Clay has interview prep to do) 10 min: Intro to Rob and Clay (10 minutes max) 15 min: Intro to the seminar (purpose, where to find course materials, office hours for extra help, etc) 20 min: What is CS? What is a programming language? Why use it? \* reproducibility, transparency, sharing/collaborating, publishing 10-15 min: Examples: ideas in hmanities context?
+(Rob takes lead on Prep as Clay has interview prep to do)
+
+10 min: Intro to Rob and Clay (10 minutes max)
+
+15 min: Student introductions: Name, field, project?
+
+15 min: Intro to the seminar (purpose, where to find course materials, office hours for extra help, etc)
+
+20 min: What is CS? What is a programming language? Why use it? (Clay)
+
+15-20 min (Rob) \* reproducibility, transparency, sharing/collaborating, publishing 10-15 min: Examples:
+
+ideas in humanities context?
 
 BREAK (10 min?)
 
-Quick project: -DEMO: 5 minutes: intro: follow-along, an example what what you should be able to to at the end of the course, etc 5 minutes cover ideas of correlation vs. causation 10 minutes: -follow-along code example (ice creams and shark attacks) 10 minutes: plot the results
+Quick project: -DEMO: 5 minutes: intro: follow-along, an example what what you should be able to to at the end of the course, etc 5 minutes cover ideas of correlation vs. causation 10 minutes: -follow-along code example (ice creams and shark attacks) 10 minutes: plot the results.
 
 ```         
 Challenge work:
@@ -34,7 +46,7 @@ Additional example: (chocolate and nobel prizes?)
 Given them data and let them try to generate the correlation analysis and plot on their own
 ```
 
-## Lecutre 2: June 18th
+## Lecture 2: June 18th
 
 ```         
 (Rob at Botany; Clay will lead)
@@ -52,12 +64,14 @@ Given them data and let them try to generate the correlation analysis and plot o
 
 BREAK
 
-???
+challenge examples?
 ```
 
 ## Lecture 3: June 25
 
-Data handling/best practices What to do and how to treat raw data files Hit data import again Exploring/munging data: comment & document code anatomy of a dataframe: head/tail nrow/ncol how to find a specific location in a dataframe subsetting data joining data with rbind/cbind simple operations within a data frame (col1 \* col2 = col3) factors how to save a file
+Data handling/best practices What to do and how to treat raw data files Hit data import again Exploring/munging data: comment & document code anatomy of a dataframe: head/tail nrow/ncol how to find a specific location in a dataframe subsetting data joining data with rbind/cbind simple operations within a data frame (col1 \* col2 = col3) factors how to save a file:
+
+also why we don't data munge in excel!
 
 ## July 02 - NO CLASS
 
